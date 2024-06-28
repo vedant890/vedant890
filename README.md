@@ -3,7 +3,6 @@
 # Hi there, I'm Vedant 👋
 
 I am a driven Full Stack Developer with a deep enthusiasm for web development. I am excited to launch my career in software development, focusing on crafting innovative and user-centric web applications. With a strong foundation in programming languages such as Java, JavaScript, HTML5, and CSS, I am committed to continuous learning and growth in this ever-evolving field.
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## 🚀 About Me
 
