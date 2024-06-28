@@ -37,7 +37,37 @@ I am a driven Full Stack Developer with a deep enthusiasm for web development. I
 ## 📂 Projects
 
 ### [AI Web Image Generator Web Application](https://github.com/vedant890/Ai-image-generator)
-Description of the project.
+Sure! Here's a description for your AI Web Image Generator project:
+
+---
+
+### AI Web Image Generator
+
+The AI Web Image Generator is an innovative web application that leverages the power of artificial intelligence to create unique and high-quality images based on user input. This project combines cutting-edge AI models with an intuitive user interface to provide an engaging and seamless image generation experience.
+
+#### Key Features:
+
+- **Customizable Inputs**: Users can specify various parameters and preferences to generate images tailored to their needs.
+- **AI-Powered Generation**: Utilizes advanced AI models to produce images that are both creative and visually appealing.
+- **Real-Time Preview**: Provides a real-time preview of the generated images, allowing users to see the results instantly.
+- **User-Friendly Interface**: Designed with a focus on usability, ensuring that users of all skill levels can easily navigate and use the application.
+- **Download and Share**: Allows users to download their generated images and share them on social media or other platforms.
+
+#### Technologies Used:
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript
+- **Backend**: Node.js, Express.js
+- **AI Model**: TensorFlow.js, OpenAI API
+- **Database**: MongoDB
+- **Deployment**: Docker, AWS
+
+#### Project Goals:
+
+- To explore the capabilities of AI in creative applications.
+- To provide a tool that inspires creativity and innovation among users.
+- To continuously improve the AI model based on user feedback and emerging technologies.
+
+Explore the [AI Web Image Generator](https://github.com/vedant890/Ai-image-generator) project and see the power of AI in action!
 
 ### [Another Project](https://github.com/yourusername/another-project)
 Description of the project.
