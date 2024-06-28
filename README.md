@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer skilled in J
 
 ## 📂 Projects
 
-### [Project Name](https://github.com/yourusername/project-name)
+### [AI Web Image Generator Web Application](https://github.com/vedant890/Ai-image-generator)
 Description of the project.
 
 ### [Another Project](https://github.com/yourusername/another-project)
@@ -46,7 +46,7 @@ Description of the project.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantmeshram/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
