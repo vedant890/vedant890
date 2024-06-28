@@ -37,9 +37,6 @@ I am a driven Full Stack Developer with a deep enthusiasm for web development. I
 ## 📂 Projects
 
 ### [AI Web Image Generator Web Application](https://github.com/vedant890/Ai-image-generator)
-Sure! Here's a description for your AI Web Image Generator project:
-
----
 
 ### AI Web Image Generator
 
@@ -52,14 +49,6 @@ The AI Web Image Generator is an innovative web application that leverages the p
 - **Real-Time Preview**: Provides a real-time preview of the generated images, allowing users to see the results instantly.
 - **User-Friendly Interface**: Designed with a focus on usability, ensuring that users of all skill levels can easily navigate and use the application.
 - **Download and Share**: Allows users to download their generated images and share them on social media or other platforms.
-
-#### Technologies Used:
-
-- **Frontend**: React.js, HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express.js
-- **AI Model**: TensorFlow.js, OpenAI API
-- **Database**: MongoDB
-- **Deployment**: Docker, AWS
 
 #### Project Goals:
 
