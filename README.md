@@ -1,6 +1,6 @@
 ![Header Image](https://your-image-url.com/header.png)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vedant 👋
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer skilled in JavaScript, Python, and the MERN stack. I love building innovative and efficient solutions that make a difference.
 
@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer skilled in J
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[Project Name](https://github.com/yourusername/project-name)**
-- 🌱 I’m currently learning **[New Technology/Tool]**
+- 🌱 I’m currently learning **Data Structure Algorithm(DSA)**
 - 👯 I’m looking to collaborate on **[Open Source Project/Any Project]**
 - 💬 Ask me about **JavaScript, Python, MERN stack**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **[mvedant37@gmail.com](mailto:mvedant37@gmail.com)**
 
 ## 🛠️ Technologies & Tools
 
