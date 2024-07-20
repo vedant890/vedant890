@@ -58,8 +58,42 @@ The AI Web Image Generator is an innovative web application that leverages the p
 
 Explore the [AI Web Image Generator](https://github.com/vedant890/Ai-image-generator) project and see the power of AI in action!
 
-### [Another Project](https://github.com/yourusername/another-project)
-Description of the project.
+### [CrowdFunding App using MERN Technologies](https://github.com/vedant890/)
+
+### Crowdfunding App using MERN Stack
+
+This is Crowdfunding App, built using the MERN stack (MongoDB, Express.js, React, Node.js), provides a comprehensive platform for creators and backers to come together and bring innovative projects to life.
+
+
+#### Key Features:
+
+**User Authentication and Profiles:** Secure user registration and login using JWT.
+Personalized user profiles displaying backed and created projects.
+
+**Project Creation and Management:** Easy project creation with detailed descriptions, funding goals, and timelines.
+Project management dashboard for creators to update progress, interact with backers, and track funding.
+
+**Discover and Support Projects:** Browse through various categories of projects using a responsive, user-friendly interface.
+Advanced search and filter options to find projects of interest.
+Back projects with flexible funding options and track contribution status.
+
+**Real-time Notifications:** Instant notifications for project updates, new backers, and funding milestones.
+Email and in-app notifications to keep users engaged and informed.
+
+**Secure Payment Processing:** Integration with trusted payment gateways to ensure secure transactions.
+Transparent funding process with real-time tracking of funds raised.
+
+**Community Engagement:** Interactive comment sections for projects to foster community discussions.
+Social media sharing options to promote projects and reach a wider audience.
+
+**Admin Dashboard:** Comprehensive admin panel to monitor platform activity, manage users, and oversee projects.
+Tools for resolving disputes and ensuring platform integrity.
+
+#### Project Goals:
+
+Our Crowdfunding App leverages the power of the MERN stack to deliver a robust, scalable, and engaging platform for all your crowdfunding needs. Whether you're a creator looking to fund your next big idea or a supporter eager to back innovative projects, our app provides the perfect environment to connect and collaborate.
+
+Explore the [](https://github.com/vedant890/)
 
 ## 📫 Let's Connect
 
