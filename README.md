@@ -25,8 +25,8 @@ I am a driven Full Stack Developer with a deep enthusiasm for web development. I
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant'se&show_icons=true&theme=radical&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant&layout=compact&theme=radical)
 
 
 ## 🏆 Achievements
