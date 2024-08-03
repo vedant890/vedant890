@@ -27,6 +27,8 @@ I am a driven Full Stack Developer with a deep enthusiasm for web development. I
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical&include_all_commits=true)
+
 
 ## 🏆 Achievements
 
