@@ -24,8 +24,8 @@ I am a driven Full Stack Developer with a deep enthusiasm for web development. I
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Statss
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedante&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant&layout=compact&theme=radical)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant890&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant890&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
