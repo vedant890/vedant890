@@ -9,7 +9,7 @@ I am a driven Full Stack Developer with a deep enthusiasm for web development. I
 - 🔭 I’m currently working on **[Crowdfunding App using MERN](https://github.com/vedant890/crowdfunding-using-blockchain)**
 - 🌱 I’m currently enhancing my skills
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, MERN Stack**
+- 💬 Skilled in JavaScript, Node.js, MySQL, MongoDB, Java, Git & GitHub — building end-to-end solutions with the MERN stack
 - 📫 Reach me at: **[mvedant37@gmail.com](mailto:mvedant37@gmail.com)**
 
 ## 🛠️ Technologies & Tools
