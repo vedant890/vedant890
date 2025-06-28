@@ -1,4 +1,4 @@
-![Header Image](https://github.com/vedant890/vedant890/assets/119072082/d8584ae2-1e5d-4990-93b1-11051d00806a)
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png)
 
 # Hi there, I'm Vedant 👋
 
