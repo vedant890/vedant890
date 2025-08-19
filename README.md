@@ -3,7 +3,7 @@
 **Passionate Developer | Aspiring Software Engineer | MCA in Progress**  
 
 🎓 I am a BCA Graduate (2019–2023) and currently pursuing a Master of Computer Applications (MCA).  
-💡 With expertise in **Node.js, Backend Development, WordPress, and SEO**, I am constantly learning and exploring modern computing technologies like **Cloud Computing** and **Artificial Intelligence**.  
+💡 With expertise in **Node.js, Backend Stack, Java, and Databse System**, I am constantly learning and exploring modern computing technologies like **Cloud Computing** and **Artificial Intelligence**.  
 
 ---
 
@@ -24,10 +24,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: JavaScript, C++, Java, PHP  
+- **Languages**: JavaScript, C++, Java
 - **Frameworks & Tools**: Node.js, Express.js, React.js, WordPress  
-- **Databases**: MySQL, MongoDB  
-- **Cloud & Others**: Git, GitHub, REST APIs, SEO Optimization  
+- **Databases**: MySQL, MongoDB, Oracle
+- **Cloud & Others**: AWS, Git, GitHub, REST APIs, SEO Optimization 
 
 ---
 
