@@ -33,5 +33,5 @@
 
 ## 🌟 Let's Connect  
 📫 Reach me at: **mvedant37@gmail.com**  
-🌐 Portfolio/Website: [https://vedantmportfolio.vercel.app/](#)  
-💼 LinkedIn: [linkedin.com/in/vedantmeshram](#)  
+🌐 Portfolio/Website: [vedantmportfolio.vercel.app](https://vedantmportfolio.vercel.app)  
+💼 LinkedIn: [linkedin.com/in/vedantmeshram](https://www.linkedin.com/in/vedantmeshram)  
