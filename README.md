@@ -11,7 +11,7 @@
 - 💻 Passionate about **Backend Development & System Architecture**  
 - ☁️ Exploring **Cloud Computing & Modern Web Technologies**  
 - 🤖 Interested in **AI, Data Structures, and Algorithms**  
-- 🌐 Skilled in **WordPress Development & SEO Optimization**  
+- 🌐 Skilled in **AI Automation and DevOps Practices**  
 - 📈 Always eager to **upgrade my skills** and keep pace with the evolving tech industry  
 
 ---
@@ -25,9 +25,9 @@
 
 ## 🛠️ Tech Stack  
 - **Languages**: JavaScript, C++, Java
-- **Frameworks & Tools**: Node.js, Express.js, React.js, WordPress  
-- **Databases**: MySQL, MongoDB, Oracle
-- **Cloud & Others**: AWS, Git, GitHub, REST APIs, SEO Optimization 
+- **Frameworks & Tools**: Node.js, Express.js, React.jsx  
+- **Databases**: MySQL, MongoDB, Oracle, Firebase NoSql Database
+- **Cloud & Others**: AWS, Git, GitHub, REST APIs, Firebaase Functions, CodeSpace
 
 ---
 
