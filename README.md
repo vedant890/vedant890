@@ -1,6 +1,6 @@
 # 👨‍💻 Vedant Meshram  
 
-**Backend Developer | Software Engineer | MCA in Progress 🚀**
+<h3 align="center">Backend Developer | Software Engineer | MCA in Progress 🚀</h3>
 
 ---
 
@@ -18,14 +18,23 @@ I am a backend-focused developer passionate about building scalable applications
 - 🔥 Building real-world projects and contributing on GitHub
 
 ---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant890&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant890&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vedant890&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant890&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
+
 ---
+
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
@@ -95,10 +104,10 @@ I am a backend-focused developer passionate about building scalable applications
 📫 Email: **mvedant37@gmail.com**  
 
 🌐 Portfolio:  
-https://vedantmportfolio.vercel.app  
+[vedantmportfolio.vercel.app](https://vedantmportfolio.vercel.app)
 
 💼 LinkedIn:  
-https://www.linkedin.com/in/vedantmeshram  
+[linkedin.com/in/vedantmeshram](https://www.linkedin.com/in/vedantmeshram)
 
 ---
 
