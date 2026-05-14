@@ -1,47 +1,29 @@
 # 👨‍💻 Vedant Meshram  
 
-**Passionate Developer | Backend Engineer | MCA in Progress 🚀**
+**Backend Developer | Software Engineer | MCA in Progress 🚀**
 
 ---
 
 ## 🚀 About Me  
 
 🎓 BCA Graduate (2019–2023)  
-📚 Currently pursuing **MCA**  
+📚 Currently pursuing **MCA**
 
-💡 I focus on building **scalable backend systems**, APIs, and real-world applications while exploring **Cloud + AI integration**.
+I am a backend-focused developer passionate about building scalable applications, APIs, and efficient systems. I enjoy solving real-world problems through clean architecture, automation, and modern technologies.
 
-- 💻 Backend Developer (Node.js, APIs, System Design)
-- ☁️ Exploring Cloud (AWS, Firebase, DevOps basics)
-- 🤖 Learning AI/ML fundamentals & automation
-- 🧠 Strong interest in **DSA & problem-solving**
-- 🔥 Actively contributing on GitHub (PRs, commits, projects)
+- 💻 Backend Development with Node.js & Express
+- ☁️ Exploring Cloud & DevOps fundamentals
+- 🤖 Learning AI integration & automation tools
+- 🧠 Practicing DSA & problem-solving
+- 🔥 Building real-world projects and contributing on GitHub
 
 ---
 
-## 📊 GitHub Contributions  
-
-🚀 I actively contribute through:  
-- 🔹 Feature development  
-- 🔹 Bug fixes & optimizations  
-- 🔹 Pull Requests (PRs)  
-- 🔹 Open-source collaboration  
-
-### 📈 Contribution Stats  
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant890&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant890&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Activity & Contributions  
-
-- ✅ Consistent commits across multiple projects  
-- 🔀 Creating and merging Pull Requests  
-- 🧪 Working with real-world backend systems  
-- 🤝 Collaborating on GitHub repositories  
-
-📌 *My contribution graph reflects my continuous learning and development journey.*
 
 ---
 
@@ -59,12 +41,14 @@
 
 ### 🌐 Frontend  
 - React.js  
+- HTML5  
+- CSS3  
 
 ### 🗄️ Databases  
 - MongoDB  
 - MySQL  
 - Oracle  
-- Firebase (NoSQL)  
+- Firebase Firestore  
 
 ### ☁️ Cloud & Tools  
 - AWS (Basics)  
@@ -72,33 +56,51 @@
 - Git & GitHub  
 - GitHub Codespaces  
 - Postman  
+- VS Code  
 
 ---
 
-## 🚀 Projects & Work  
+## 🚀 Experience & Development Focus  
 
-🔹 Building real-world backend systems  
-🔹 Working on scalable API architectures  
-🔹 Integrating AI-based features (OCR, chatbot, automation)  
-🔹 Exploring CMS, DevOps, and system design  
+- 🔹 Backend API development  
+- 🔹 Authentication & database integration  
+- 🔹 Building scalable server-side applications  
+- 🔹 Working with real-world project structures  
+- 🔹 Exploring AI-powered features and automation  
+- 🔹 Learning system design and deployment workflows  
+
+---
+
+## 📌 Featured Interests  
+
+- Backend Engineering  
+- Cloud Computing  
+- System Design  
+- API Architecture  
+- AI Integrations  
+- Automation Tools  
 
 ---
 
 ## 🎯 Goals  
 
-- 🔹 Become a **Backend + Cloud Engineer**
-- 🔹 Master **System Design & Scalable Architectures**
-- 🔹 Build **AI-powered applications**
-- 🔹 Contribute to impactful real-world projects  
+- 🔹 Become a skilled **Backend & Cloud Engineer**
+- 🔹 Build scalable and production-ready systems
+- 🔹 Contribute to impactful real-world projects
+- 🔹 Strengthen problem-solving and architecture skills
 
 ---
 
-## 🌟 Let's Connect  
+## 🌟 Connect With Me  
 
 📫 Email: **mvedant37@gmail.com**  
-🌐 Portfolio: https://vedantmportfolio.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/vedantmeshram  
+
+🌐 Portfolio:  
+https://vedantmportfolio.vercel.app  
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/vedantmeshram  
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *“Code. Learn. Build. Improve.”*
