@@ -1,6 +1,6 @@
 # 👨‍💻 Vedant Meshram  
 
-<h3 align="center">Backend Developer | Software Engineer | MCA in Progress 🚀</h3>
+<h3 align="center">Backend Developer | Software Engineer | MCA Graduate | BCA Graduate🚀</h3>
 
 ---
 
